@@ -47,7 +47,6 @@ jenkins-primary:
     plugins: |
       ${plugins}
   lb_config:
-     certs: []
      port_rules:
      - hostname: ${hostname}.wds.io
        target_port: 8080

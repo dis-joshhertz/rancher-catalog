@@ -47,14 +47,13 @@ jenkins-primary:
     plugins: |
       ${plugins}
   lb_config:
-     certs: []
      port_rules:
      - hostname: ${hostname}.wds.io
        target_port: 8080
    health_check:
      healthy_threshold: 2
      response_timeout: 2000
-     port: 80
+     port: 8080
      unhealthy_threshold: 3
      initializing_timeout: 300000
      interval: 2000
