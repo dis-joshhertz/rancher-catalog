@@ -3,7 +3,6 @@ jenkins-primary:
   ports:
     - "${PORT}:8080"
   labels:
-  labels:
     io.rancher.scheduler.affinity:container_label_soft_ne: io.rancher.stack_service.name=$${stack_name}/$${service_name}
     default_lb_sync: 'true'
     io.rancher.container.pull_image: always
