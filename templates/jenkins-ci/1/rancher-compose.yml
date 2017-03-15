@@ -59,8 +59,8 @@
         structs:1.6
         swarm:3.3
         token-macro:2.0
+        workflow-step-api:2.9
         workflow-scm-step:2.4
-        workflow-step-api:2.9.0-b25
 version: '2'
 services:
   jenkins-primary:
