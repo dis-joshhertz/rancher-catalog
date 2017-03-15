@@ -61,6 +61,7 @@
         token-macro:2.0
         workflow-scm-step:2.4
         workflow-step-api:2.9
+        workflow-basic-steps:1.15
         thinBackup:1.9
         slack:2.2
         sauce-ondemand:1.161
@@ -68,6 +69,7 @@
         build-pipeline-plugin:1.5.6
         cucumber-reports:3.5.1
         htmlpublisher:1.12
+        parameterized-trigger:2.17
         blueocean:1.0.0-b25
         blueocean-autofavorite:0.6
         blueocean-commons:1.0.0-b25
