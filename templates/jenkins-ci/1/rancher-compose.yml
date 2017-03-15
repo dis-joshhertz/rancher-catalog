@@ -60,42 +60,7 @@
         swarm:3.3
         token-macro:2.0
         workflow-scm-step:2.4
-        workflow-step-api:2.9
-        workflow-basic-steps:1.15
-        thinBackup:1.9
-        slack:2.2
-        sauce-ondemand:1.161
-        run-condition:1.0
-        workflow-job:1.15
-        workflow-cps:1.15
-        maven-plugin:2.11
-        build-blocker-plugin:1.7.3
-        build-pipeline-plugin:1.5.6
-        cucumber-reports:3.5.1
-        htmlpublisher:1.12
-        parameterized-trigger:2.17
-        blueocean:1.0.0-b25
-        blueocean-autofavorite:0.6
-        blueocean-commons:1.0.0-b25
-        blueocean-config:1.0.0-b25
-        blueocean-dashboard:1.0.0-b25
-        blueocean-display-url:1.5.1
-        workflow-job:2.6
-        workflow-multibranch:2.8 
-        blueocean-events:1.0.0-b25
-        blueocean-git-pipeline:1.0.0-b25
-        blueocean-github-pipeline:1.0.0-b25
-        blueocean-pipeline-api-impl:1.0.0-b25
-        github-branch-source:2.0.3
-        blueocean-i18n:1.0.0-b25
-        blueocean-jwt:1.0.0-b25
-        blueocean-personalization:1.0.0-b25
-        blueocean-pipeline-api:1.0.0-b25
-        pubsub-light:1.7
-        sse-gateway:1.15
-        blueocean-pipeline-editor:0.1-preview-4
-        blueocean-rest:1.0.0-b25
-        blueocean-web:1.0.0-b25
+        workflow-step-api:2.9.0-b25
 version: '2'
 services:
   jenkins-primary:
