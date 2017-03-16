@@ -49,7 +49,7 @@
         blueocean-config:1.0.0-rc1
         blueocean-dashboard:1.0.0-rc1
         blueocean-display-url:1.5.1
-        blueocean-events:
+        blueocean-events:1.0.0-rc1
         blueocean-git-pipeline:1.0.0-rc1
         blueocean-github-pipeline:1.0.0-rc1
         blueocean-i18n:1.0.0-rc1
