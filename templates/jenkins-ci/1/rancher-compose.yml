@@ -49,6 +49,7 @@
         blueocean-config:1.0.0-rc1
         blueocean-dashboard:1.0.0-rc1
         blueocean-display-url:1.5.1
+        blueocean-events:
         blueocean-git-pipeline:1.0.0-rc1
         blueocean-github-pipeline:1.0.0-rc1
         blueocean-i18n:1.0.0-rc1
@@ -108,10 +109,12 @@
         pipeline-stage-step:2.2
         pipeline-stage-tags-metadata:1.1.1
         plain-credentials:1.4
+        pubsub-light:1.7
         run-condition:1.0
         sauce-ondemand:1.161
         scm-api:2.1.0
         script-security:1.27
+        sse-gateway:1.15
         ssh-credentials:1.13
         ssh-slaves:1.13
         structs:1.6
