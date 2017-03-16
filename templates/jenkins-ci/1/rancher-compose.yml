@@ -72,7 +72,7 @@
         display-url-api:1.1.1
         durable-task:1.13
         docker-workflow:1.10
-        doccjer-commons:1.6
+        docker-commons:1.6
         external-monitor-job:1.7
         favorite:2.0.4
         git-client:2.3.0
