@@ -82,6 +82,7 @@
         htmlpublisher:1.12
         icon-shim:2.0.3
         javadoc:1.4
+        jackson2-api:2.7.3
         jquery-detached:1.2.1
         jquery:1.11.2-0
         junit:1.20
@@ -90,6 +91,7 @@
         matrix-auth:1.4
         matrix-project:1.8
         maven-plugin:2.15.1
+        metrics:3.1.2.9
         pam-auth:1.3
         parameterized-trigger:2.33
         pipeline-github-lib:1.0
@@ -104,6 +106,7 @@
         swarm:3.3
         thinBackup:1.9
         token-macro:2.0
+        variant:1.1
         windows-slaves:1.3.1
         workflow-api:2.12
         workflow-basic-steps:2.4
