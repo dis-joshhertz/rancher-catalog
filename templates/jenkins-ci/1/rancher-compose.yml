@@ -69,6 +69,7 @@
         cucumber-reports:3.5.1
         display-url-api:1.1.1
         external-monitor-job:1.7
+        favorite:2.0.4
         git-client:2.3.0
         git-server:1.7
         git:3.1.0
